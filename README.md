@@ -86,6 +86,15 @@ This project aligns with AI for Education research by:
 
 The work reflects real challenges in designing feedback that is both helpful and cognitively appropriate for learners.
 
+## How to Run
+
+• Click Open in Google Colab above
+• Run all cells in order
+• Provide an API key when prompted
+
+The notebook will load feedback data, generate before-and-after comparisons, and produce summary tables and visualisations.
+
+
 ## Files in This Repository
 
 • learning_analytics_dashboard.ipynb – Full analysis notebook

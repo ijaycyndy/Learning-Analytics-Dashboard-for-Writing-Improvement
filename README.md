@@ -5,6 +5,21 @@ It builds directly on the Multi-Persona AI Writing Assistant by examining the ou
 
 The focus is on learning analytics, feedback quality, and behavioural change in writing.
 
+## Related Project
+
+This project is part of a two-stage research pipeline.
+
+• Project 1: Multi-Persona AI Writing Assistant (Feedback Generation)
+👉[ https://github.com/YOUR_GITHUB_USERNAME/Multi-Persona-AI-Writing-Assistant](https://github.com/ijaycyndy/Multi-Persona-AI-Writing-Assistant.git)
+
+Project 1 generates structured AI feedback using multiple personas.
+This repository focuses on analysing how that feedback affects writing quality.
+
+## Open in Google Colab
+
+Use the button below to run the full analysis notebook in Google Colab.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ijaycyndy/writing-feedback-learning-analytics/blob/main/writing-feedback-learning-analytics.ipynb)
+
 ## Project Motivation
 
 Most AI writing tools provide feedback, but few evaluate whether that feedback actually helps learners improve.

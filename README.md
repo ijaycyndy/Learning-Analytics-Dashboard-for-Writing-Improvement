@@ -76,4 +76,4 @@ The work reflects real challenges in designing feedback that is both helpful and
 ## Notes on Scope
 
 This is an exploratory study using a small dataset.
-Results are not intended to be generalised, but to demonstrate method, reasoning, and evaluation design suitable for doctoral research.
+Results are not intended to be generalised, but to demonstrate method, reasoning, and evaluation design.

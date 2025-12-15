@@ -19,7 +19,9 @@ This repository focuses on analysing how that feedback affects writing quality.
 
 Use the button below to run the full analysis notebook in Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ijaycyndy/Learning-Analytics-Dashboard-for-Writing-Improvement/blob/main/Learning_Analytics_Dashboard_for_Writing_Improvement.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/ijaycyndy/Learning-Analytics-Dashboard-for-Writing-Improvement/blob/main/Learning_Analytics_Dashboard_for_Writing_Improvement.ipynb
+
+
 
 ## Project Motivation
 

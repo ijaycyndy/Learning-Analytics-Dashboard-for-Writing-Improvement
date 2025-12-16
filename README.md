@@ -1,5 +1,5 @@
 
-## Learning Analytics Dashboard for Writing Improvement
+## Learning Analytics for Writing Improvement
 This project analyses how different types of AI feedback influence student writing improvement.
 It builds directly on the Multi-Persona AI Writing Assistant by examining the outcomes of feedback rather than the generation process itself.
 
